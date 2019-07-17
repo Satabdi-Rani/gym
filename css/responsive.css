@@ -1,0 +1,130 @@
+@media(max-width:1199px){
+  /*free consultation start*/
+.free_consultation{
+  padding: 90px 0 70px 0;
+}
+ .free_consultation_content i {
+    font-size: 35px;
+}
+.free_consultation_content h6 {
+    font-size: 15px;
+}
+.free_consultation_content p {
+    font-size: 14px;
+}
+/*free consultation end*/
+ 
+}
+@media(max-width:991px){
+	/*free lesson start*/
+	.free-lesson{
+   padding: 80px 0 60px 0;
+}
+.free-lesson-content h1{
+    font-weight:900;
+    font-size:22px;
+    color:#ffffff;
+    text-transform: uppercase;
+}
+.free-lesson-content p{
+     font-size: 13px;
+         padding: 25px 0 20px 0;
+}
+.free-lesson-content ul li{
+   font-size:12px;
+}
+.free-lesson-content ul li i{
+   font-size: 10px;
+   padding-left:10px;
+}
+	/*free lesson end*/
+
+/*free consultation start*/
+.free_consultation{
+  padding: 80px 0 60px 0;
+}
+ .free_consultation_content i {
+    font-size: 30px;
+}
+.free_consultation_content h6 {
+    font-size: 13px;
+}
+.free_consultation_content p {
+    font-size: 10px;
+}
+/*free consultation end*/
+
+}
+@media(max-width:767px){
+	   	/*free lesson start*/
+	.free-lesson{
+   padding: 65px 0 10px 0;
+}
+.free-lesson-content h1{
+    font-weight:900;
+    font-size:22px;
+    color:#ffffff;
+    text-transform: uppercase;
+}
+.free-lesson-content p{
+    font-size: 12px;
+    padding: 15px 0 2px 0;
+}
+.free-lesson-content ul li{
+   font-size:10px;
+   padding-bottom: 40px;
+}
+.free-lesson-content ul li i{
+   font-size: 8px;
+   padding-left:10px;
+}
+	/*free lesson end*/
+
+  /*free consultation start*/
+  .free_consultation{
+  padding: 65px 0 45px 0;
+}
+ .free_consultation_content i {
+    font-size: 25px;
+}
+.free_consultation_content h6 {
+    font-size: 12px;
+}
+.free_consultation_content p {
+    padding-bottom: 40px;
+    width: 90%;
+}
+  /*free consultation end*/
+}
+@media(max-width:575px){
+   	/*free lesson start*/
+	.free-lesson{
+   padding: 65px 0 10px 0;
+}
+.free-lesson-content h1{
+    font-weight:900;
+    font-size:22px;
+    color:#ffffff;
+    text-transform: uppercase;
+}
+.free-lesson-content p{
+    font-size: 12px;
+    padding: 15px 0 2px 0;
+}
+.free-lesson-content ul li{
+   font-size:10px;
+   padding-bottom: 40px;
+}
+.free-lesson-content ul li i{
+   font-size: 8px;
+   padding-left:10px;
+}
+	/*free lesson end*/
+
+  /*free consultation start*/
+  .free_consultation_content p {
+    padding-bottom: 40px;
+    width:100%;
+  }
+  /*free consultation end*/
+}
